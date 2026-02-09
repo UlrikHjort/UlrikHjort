@@ -1,4 +1,6 @@
-## Hi there 👋
+![Ada](https://img.shields.io/badge/Ada-5C2D91?style=flat&logo=ada&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
 
 <!--
 **UlrikHjort/UlrikHjort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
